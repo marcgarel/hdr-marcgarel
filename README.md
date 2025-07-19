@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/marcgarel/hdr-marcgarel/tree/gh-pages) branch hosts the contents of this directory at <https://marcgarel.github.io/hdr-marcgarel/>.
-The permalink for this webpage version is <https://marcgarel.github.io/hdr-marcgarel/v/363768321dacfb8fcb6f72fcf5e2e43be8632a48/>.
+The permalink for this webpage version is <https://marcgarel.github.io/hdr-marcgarel/v/7c4562d58cf6b8435ec91a9573469b25d23439bd/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://marcgarel.github.io/hdr-marcgarel/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`363768321dacfb8fcb6f72fcf5e2e43be8632a48`](https://github.com/marcgarel/hdr-marcgarel/commit/363768321dacfb8fcb6f72fcf5e2e43be8632a48).
+[`7c4562d58cf6b8435ec91a9573469b25d23439bd`](https://github.com/marcgarel/hdr-marcgarel/commit/7c4562d58cf6b8435ec91a9573469b25d23439bd).
