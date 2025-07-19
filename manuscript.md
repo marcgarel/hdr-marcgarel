@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-07-19" />
   <meta name="citation_publication_date" content="2025-07-19" />
   <meta property="article:published_time" content="2025-07-19" />
-  <meta name="dc.modified" content="2025-07-19T20:50:56+00:00" />
-  <meta property="article:modified_time" content="2025-07-19T20:50:56+00:00" />
+  <meta name="dc.modified" content="2025-07-19T20:54:37+00:00" />
+  <meta property="article:modified_time" content="2025-07-19T20:54:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://marcgarel.github.io/hdr-marcgarel/" />
   <meta name="citation_pdf_url" content="https://marcgarel.github.io/hdr-marcgarel/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://marcgarel.github.io/hdr-marcgarel/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/hdr-marcgarel/v/363768321dacfb8fcb6f72fcf5e2e43be8632a48/" />
-  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/hdr-marcgarel/v/363768321dacfb8fcb6f72fcf5e2e43be8632a48/" />
-  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/hdr-marcgarel/v/363768321dacfb8fcb6f72fcf5e2e43be8632a48/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/hdr-marcgarel/v/7c4562d58cf6b8435ec91a9573469b25d23439bd/" />
+  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/hdr-marcgarel/v/7c4562d58cf6b8435ec91a9573469b25d23439bd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/hdr-marcgarel/v/7c4562d58cf6b8435ec91a9573469b25d23439bd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://marcgarel.github.io/hdr-marcgarel/v/363768321dacfb8fcb6f72fcf5e2e43be8632a48/))
+([permalink](https://marcgarel.github.io/hdr-marcgarel/v/7c4562d58cf6b8435ec91a9573469b25d23439bd/))
 was automatically generated
-from [marcgarel/hdr-marcgarel@3637683](https://github.com/marcgarel/hdr-marcgarel/tree/363768321dacfb8fcb6f72fcf5e2e43be8632a48)
+from [marcgarel/hdr-marcgarel@7c4562d](https://github.com/marcgarel/hdr-marcgarel/tree/7c4562d58cf6b8435ec91a9573469b25d23439bd)
 on July 19, 2025.
 </em></small>
 
@@ -123,7 +123,7 @@ Jane Roe \<jane.roe@whatever.edu\>.
 test pour mon manuscrit 
 
 
-Introduction {.page_break_before}
+## Introduction {.page_break_before}
 
 
 ## References {.page_break_before}
